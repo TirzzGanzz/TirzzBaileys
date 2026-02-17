@@ -1,16 +1,16 @@
 {
-    "name": "LolipopExercise/Baileys",
+    "name": "TirzzGanzz/Baileys",
     "version": "2.1.7",
-    "description": "WhatsApp Modified By Lolipop",
+    "description": "WhatsApp Modified By TirzzGanzz",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/LolipopExercise/ExeBaileys",
+    "homepage": "https://github.com/TirzzGanzz/TirzzBaileys",
     "repository": {
-        "url": "https://github.com/LolipopExercise/ExeBaileys"
+        "url": "https://github.com/TirzzGanzz/TirzzBaileys"
     },
     "license": "MIT",
-    "author": "Lolipop.Team",
+    "author": "Tirzz.Team",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -45,7 +45,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:LolipopExercise/libsignal-node",
+        "libsignal": "github:TirzzGanzz/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://LolipopExercise/ExeBaileys/issues"
+      "url": "https://TirzzGanzz/TirzzBaileys/issues"
     }
 }
