@@ -1,6 +1,6 @@
 # Modified Whatsapp-API
 <p align='center'>
-  <img src="https://files.catbox.moe/fa2j6a.jpg" width="172">
+  <img src="https://files.catbox.moe/3ys5a8.jpg" width="172">
 </p>
 
 --- 
@@ -8,7 +8,7 @@
 ## Usage
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:LolipopExercise/ExeBaileys"
+  "@whiskeysockets/baileys": "github:TirzzGanzz/TirzzBaileys"
 }
 ```
 ## Import
@@ -83,7 +83,7 @@ await client.sendMessage(m.chat, {
       }
     ],
     newsletter: {
-      newsletterName: "BullCrasher | Information",
+      newsletterName: "Tirzz | Information",
       newsletterJid: "1@newsletter"
     }
   }
@@ -94,12 +94,12 @@ await client.sendMessage(m.chat, {
 ```javascript
 await client.relayMessage(m.chat, {
   productMessage {
-    title: "Lolipop.Team",
+    title: "Tirzz.Team",
     description: "zZZ...",
     thumbnail: { url: "./ZeppImage" },
     productId: "EXAMPLE_TOKEN",
     retailerId: "EXAMPLE_RETAILER_ID",
-    url: "https://t.me/rvnnsix",
+    url: "https://t.me/Tirzzganzz",
     body: "Nak Turu",
     footer: "Footer",
     buttons: [
@@ -113,4 +113,4 @@ await client.relayMessage(m.chat, {
   }
 })
 ```
-Follow https://t.me/pantatbergoyang kalau mau liat type message yg lain :v
+Follow https://t.me/tirzzganz kalau mau liat type message yg lain :v
